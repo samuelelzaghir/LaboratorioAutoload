@@ -31,7 +31,7 @@ LaboratorioAutoload/
 │   └── Services/
 │       └── UsuarioService.php
 
-Configuración PSR-4
+## Configuración PSR-4
 
 En el archivo composer.json se configuró el bloque autoload de la siguiente manera:
 
