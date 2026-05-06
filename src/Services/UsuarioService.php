@@ -8,6 +8,6 @@ class UsuarioService
 {
     public function crearUsuario(): Usuario
     {
-        return new Usuario("Samuel", "samuel@ejemplo.com");
+        return new Usuario("Samuel", "samuel@utp.ac.pa");
     }
 }
