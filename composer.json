@@ -1,0 +1,11 @@
+{
+    "name": "samuel/laboratorio-autoload",
+    "description": "Laboratorio de autocarga PSR-4 con Composer",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {}
+}
